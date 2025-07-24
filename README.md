@@ -13,7 +13,7 @@
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/neha-behare-386b7b287" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  
   </a>
 </p>
 
