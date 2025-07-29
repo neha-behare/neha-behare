@@ -50,8 +50,7 @@
 ---
 
 
-## 📊 GitHub Activity
-![My Activity Graph](https://github.com/neha-behare/neha-behare/blob/main/assets/activity-graph.png?raw=true)
+
 ## 📊 GitHub Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neha-behare&theme=github-compact&hide_border=true)
