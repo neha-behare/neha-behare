@@ -49,13 +49,11 @@
 
 ---
 
-### 🎯 Activity Graph
 
-<p align="center">
-  <img src="## 📊 GitHub Activity
+## 📊 GitHub Activity
 ![My Activity Graph](https://github.com/neha-behare/neha-behare/blob/main/assets/activity-graph.png?raw=true)
-" />
-</p>
+
+
 
 ---
 
