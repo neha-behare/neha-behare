@@ -52,7 +52,9 @@
 ### 🎯 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=neha-behare&theme=rose_pine" />
+  <img src="## 📊 GitHub Activity
+![My Activity Graph](https://github.com/neha-behare/neha-behare/blob/main/assets/activity-graph.png?raw=true)
+" />
 </p>
 
 ---
