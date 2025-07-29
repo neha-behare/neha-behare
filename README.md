@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Web Development, Python, and refining my C/C++ skills**
 - 💬 Ask me about **C, C++, Python, HTML, CSS, Web Dev**
 - 📫 Reach me at **nehabehere.2006@gmail.com**
-- 📄 Know more about me: [My Resume](#) <!-- Insert your actual resume link here -->
 - ⚡ Fun fact: *I may get stuck in code sometimes, but once I solve it — it's like giving a high-five to my future self! ✨🧠💖*
 
 ---
