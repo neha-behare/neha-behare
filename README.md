@@ -1,43 +1,79 @@
-![logo](banner.png)
-
-<h1 align="center">Hi 👋, I'm Neha Sanjay Behare</h1>
-<h3 align="center">Code Enthusiast | Exploring C, C++, Python | Interested in Web Dev & Python</h3>
-
-<img align="right" alt="coding" width="400" height="270" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nehabehere&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NehaBehere/NehaBehere/main/banner.png" alt="Neha Sanjay Behare Banner" width="100%" />
 </p>
 
-- 🎓 I'm currently in my **third year of Computer Engineering**, learning and building small projects.
-- 🌱 I’m currently learning **Web Development, Python, and refining my C/C++ skills**
-- 💬 Ask me about **C, C++, Python, HTML, CSS, Web Dev**
-- 📫 Reach me at **nehabehere.2006@gmail.com**
-- ⚡ Fun fact: *I may get stuck in code sometimes, but once I solve it — it's like giving a high-five to my future self! ✨🧠💖*
+<!-- Typing Text Animation -->
+<h2 align="center">
+  👋 Hi there, I'm <span style="color:#f2709c;">Neha Sanjay Behare</span>
+</h2>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/neha-behare-386b7b287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Behare-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=Second+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+### 🌸 About Me
+- 🎓 B.Tech CSE | SVKM's IoT Dhule | DBATU
+- 💻 Web Dev Intern @ Octanet & Unique Coder
+- 👩🏻‍💻 Skilled in `HTML`, `CSS`, `C`, `C++`
+- 🌱 Learning Python and Full Stack Development
+- 🎯 Goal: Build real-world apps that solve problems
+- 💬 Ask me about teamwork, coding, or tech events
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,github,git,visualstudio,vscode" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehabehere&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehabehere&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NehaBehere&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=NehaBehere&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NehaBehere&theme=rose_pine" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nehabehere" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nehabehere.2006@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NehaBehere&theme=flat&column=6" />
+</p>
+
+---
+
+### ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+🔁 *Last updated on: {{Today’s Date}}*
