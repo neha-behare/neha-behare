@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NehaBehere/NehaBehere/main/banner.png" alt="Neha Sanjay Behare Banner" width="100%" />
+  <img src="/banner.png" alt="Neha Sanjay Behare Banner" width="100%" />
 </p>
 
 <!-- Typing Text Animation -->
