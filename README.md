@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F2709C&center=true&vCenter=true&width=400&lines=Third+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F2709C&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=neha-behare=&theme=rose_pine" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?usernameneha-behare=&theme=rose_pine" />
 </p>
 
 ---
