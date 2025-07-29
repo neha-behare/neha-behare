@@ -64,8 +64,8 @@
 
 - 👩‍💻 Web Dev Intern @ **Octanet Services Pvt Ltd**
 - 🛠 Internship @ **Unique Coder Solutions, Pune**
-- 💡 Organized *Enigmarun* Coding Event at SVIT
-- 📰 Built **Echo News** – Multilingual, Responsive News Portal
+- 💡 Organized *Enigmarun* Coding Event at SVKMIOT,Dhule
+
 
 ---
 
