@@ -5,12 +5,12 @@
 
 <!-- Typing Text Animation -->
 <h2 align="center">
-  👋 Hi there, I'm <span style="color:#f2709c;">Neha Sanjay Behare</span>
+  👋 Hi there, I'm <span style="color:#f2709c;">Neha .S.Behare</span>
 </h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=Second+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F2709C&center=true&vCenter=true&width=435&lines=Third+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,github,git,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,github,git,visualstudio,vscode,postman,c++" />
 </p>
 
 ---
@@ -37,12 +37,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NehaBehere&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=NehaBehere&theme=rose_pine&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=neha-behare&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NehaBehere&theme=rose_pine" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=neha-behare=&theme=rose_pine" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NehaBehere&theme=flat&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=neha-behare&theme=flat&column=6" />
 </p>
 
 ---
@@ -76,4 +76,4 @@
 
 ---
 
-🔁 *Last updated on: {{Today’s Date}}*
+🔁 *Last updated on: {{29-7-25}}*
