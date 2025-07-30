@@ -44,7 +44,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=neha-behare&theme=rose_pine&hide_border=true" />
+ 
 </p>
 
 ---
