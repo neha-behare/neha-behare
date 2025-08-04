@@ -42,7 +42,7 @@
 
 ### 🔥 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="neha" /></p>
+<p><img align="left" height=60% src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="neha" /></p>
 
 
 <p align="right">
