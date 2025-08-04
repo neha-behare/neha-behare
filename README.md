@@ -42,14 +42,10 @@
 
 ### 🔥 GitHub Stats
 
-<p><img align="left" height=60% src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="neha" /></p>
-
-
-<p align="right">
-<img width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=en" alt="neha" />
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanishka-Wani&show_icons=true&locale=en" alt="kanishka513" /></p>
- 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=en" alt="Neha's GitHub Stats" />
+</p>
 
 ---
 
