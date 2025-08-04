@@ -46,7 +46,8 @@
 
 
 <p align="right">
-  <img width="60%"  height= 60% src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="60%"  height= 60% src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=enalt="neha"" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kanishka-Wani&show_icons=true&locale=en" alt="kanishka513" /></p>
  
 
 ---
