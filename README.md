@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" alt="Neha Sanjay Behare Banner" width="100%" />
+  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" alt="Neha Sanjay Behare Banner" width="50%" />
 </p>
 
 <!-- Typing Text Animation -->
