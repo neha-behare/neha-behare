@@ -46,7 +46,7 @@
 
 
 <p align="right">
-  <img width="60%"  height= 120px src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="60%"  height= 60% src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
  
 </p>
 
