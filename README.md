@@ -42,11 +42,11 @@
 
 ### 🔥 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="neha" /></p>
+<p><img align="cleft" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="neha" /></p>
 
 
 <p align="right">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="60%"  height= 30px src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
  
 </p>
 
