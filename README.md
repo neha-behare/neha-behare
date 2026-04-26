@@ -1,75 +1,83 @@
-<h1 align="center">Hi, I'm Neha Sanjay Behare 👋</h1>
+<h1 align="center">Hi 👋, I'm Neha Sanjay Behare</h1>
+<h3 align="center">💻 Aspiring Software Developer | Web Enthusiast | Problem Solver</h3>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" alt="Neha Sanjay Behare Banner" width="50%" />
+  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" width="60%" />
 </p>
 
-<!-- Typing Text Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F2709C&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F2709C&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+Coding+%26+Design" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/neha-behare" target="_blank">
-    <img src="https://img.shields.io/badge/-Neha%20Behare-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=neha-behare&style=flat-square&color=blue" alt="Profile views" />
-</p>
+---
 
-----
-
-### 💁‍♀️ About Me
+### 👩‍💻 About Me
 
 - 🎓 B.Tech CSE | SVKM's IoT Dhule | DBATU  
-- 🌱 Currently learning **Python, Web Development & DSA**  
-- 👩‍💻 Passionate about building user-friendly websites  
-- ✨ Skills: `HTML` | `CSS` | `C` | `C++` | `JavaScript`  
-- 🧠 Interests: UI/UX Design, Web Technologies, Problem Solving  
-- 🎵 Hobbies: Music, Writing, Exploring new tech
+- 🌱 Currently learning **Python, DSA & Web Development**  
+- 💡 Interested in **UI/UX + Full Stack Development**  
+- 🚀 Love building clean & user-friendly applications  
+- 🎯 Goal: Become a skilled Software Engineer  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neha-behare">
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Behare-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nehabehere.2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,github,git,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql,github,vscode" />
+</p>
+
+<p align="center">
+  <b>Core Concepts:</b> DBMS, Data Structures & Algorithms (DSA)
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=en" alt="Neha's GitHub Stats" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-behare&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-behare&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
+### 📈 Contribution Graph
 
-
-## 📊 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neha-behare&theme=github-compact&hide_border=true)
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neha-behare&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
-### 🛠 Projects & Experience
+### 🛠 Experience
 
-- 👩‍💻 Web Dev Intern @ **Octanet Services Pvt Ltd**
-- 🛠 Internship @ **Unique Coder Solutions, Pune**
-- 💡 Organized *Enigmarun* Coding Event at SVKMIOT,Dhule
-
+- 💼 Web Dev Intern @ **Octanet Services Pvt Ltd**
+- 💼 Intern @ **Unique Coder Solutions, Pune**
+- 🎯 Organized *Enigmarun Coding Event* at SVKM IoT Dhule  
 
 ---
 
-### 🏆 GitHub Trophy
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neha-behare&theme=flat&column=6" />
@@ -77,7 +85,7 @@
 
 ---
 
-### ✨ Quote of the Day
+### ✨ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
@@ -85,19 +93,10 @@
 
 ---
 
-### 📬 Connect with Me
+### 💡 Fun Fact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/neha-behare" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nehabehere.2006@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> _“Clean code, clear logic, and a little chocolate 🍫 can solve anything.”_
 
 ---
 
-> _I believe clean code, clear thoughts, and chocolate can solve most problems 🍫_
-
-🔁 *Last updated: July 29, 2025*
+<p align="center">⭐ Thanks for visiting my profile!</p>
