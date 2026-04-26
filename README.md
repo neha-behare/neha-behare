@@ -2,17 +2,16 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" alt="Neha Banner" width="50%" />
+  <img src="https://github.com/neha-behare/neha-behare/blob/main/banner.png" alt="Neha Sanjay Behare Banner" width="50%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Text Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=F2709C&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Engineering+Student;Web+Developer+%7C+Tech+Learner;Passionate+about+coding+and+designing" />
   </a>
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/neha-behare" target="_blank">
     <img src="https://img.shields.io/badge/-Neha%20Behare-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -22,17 +21,17 @@
 
 ---
 
-## 💁‍♀️ About Me
+### 💁‍♀️ About Me
 
 - 🎓 B.Tech CSE | SVKM's IoT Dhule | DBATU  
 - 🌱 Currently learning **Python, Web Development & DSA**  
 - 👩‍💻 Passionate about building user-friendly websites  
-- 🧠 Strong interest in **UI/UX Design & Problem Solving**  
-- 🎵 Hobbies: Music, Writing, Exploring Tech  
+- 🧠 Interests: UI/UX Design, Web Technologies, Problem Solving  
+- 🎵 Hobbies: Music, Writing, Exploring new tech  
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
@@ -45,40 +44,34 @@
 
 ---
 
-## 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=en" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-behare&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neha-behare&show_icons=true&theme=rose_pine&hide_border=true&locale=en" alt="Neha's GitHub Stats" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neha-behare&theme=github-compact&hide_border=true"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neha-behare&theme=github-compact&hide_border=true)
 
 ---
 
-## 🛠 Projects & Experience
+### 🚀 Projects & Experience
 
-- 👩‍💻 Web Development Intern @ **Octanet Services Pvt Ltd**
-- 🛠 Intern @ **Unique Coder Solutions, Pune**
-- 💡 Organized **Enigmarun Coding Event** at SVKM IoT, Dhule  
+- 🍳 **CookMate (Team Project)**  
+  A collaborative recipe and cooking assistant platform developed with a teammate.  
+  Focused on user-friendly UI and efficient data handling.
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neha-behare&theme=flat&column=6" />
-</p>
+- 👩‍💻 Web Dev Intern @ **Octanet Services Pvt Ltd**  
+- 🛠 Internship @ **Unique Coder Solutions, Pune**  
+- 💡 Organized *Enigmarun* Coding Event at SVKM IoT, Dhule  
 
 ---
 
-## ✨ Quote
+### ✨ Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
@@ -86,7 +79,7 @@
 
 ---
 
-## 📬 Connect with Me
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neha-behare" target="_blank">
@@ -106,5 +99,5 @@
 ---
 
 <p align="center">
-  🔁 Last Updated: 2026
+  🔁 Last updated: 2026
 </p>
