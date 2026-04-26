@@ -26,8 +26,8 @@
 - 🎓 B.Tech CSE | SVKM's IoT Dhule | DBATU  
 - 🌱 Currently learning **Python, Web Development & DSA**  
 - 👩‍💻 Passionate about building user-friendly websites  
-- 🧠 Interests: UI/UX Design, Web Technologies, Problem Solving  
-- 🎵 Hobbies: Music, Writing, Exploring new tech  
+- 🧠 Interests:  Web Technologies, Problem Solving  
+  
 
 ---
 
